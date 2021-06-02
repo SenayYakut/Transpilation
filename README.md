@@ -14,9 +14,9 @@ https://github.com/SenayYakut/Transpilation.git
 ```
 
 ## Usage
-```bash
-https://senayyakut.github.io/Transpilation/
-```
+
+[Go to](https://senayyakut.github.io/Transpilation/)
+
 
 
 ## Contributing
