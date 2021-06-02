@@ -10,7 +10,7 @@ At the end of this project, we will populate the second column with the equivale
 
 Install the project locally
 ```bash
-
+https://github.com/SenayYakut/Transpilation.git
 ```
 
 ## Usage
